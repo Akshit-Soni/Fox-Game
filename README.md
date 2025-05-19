@@ -24,17 +24,16 @@ A simple 2D/3D Unity game where you control a fox navigating through challenges 
 ## Features
 
 * Player movement: walk, run, and jump using keyboard controls.
-* Collectibles: items that increase score or grant power-ups.
-* Obstacles: simple AI-driven hazards or environmental traps.
-* Multiple levels: designed in Unity scenes with increasing difficulty.
 * Smooth animations: sprite or model animations for character actions.
+* Collectibles: items that increase score or grant power-ups.(In development)
+* Obstacles: simple AI-driven hazards or environmental traps.(In development)
+* Multiple levels: designed in Unity scenes with increasing difficulty.(In development)
 
 ## Gameplay
 
 * **Move**: Arrow keys or `A`/`D` (desktop) to move left and right.
 * **Jump**: `Space` to jump.
-* **Interact**: Approach collectibles to pick them up automatically.
-* **Objective**: Collect all items or reach the exit door to progress to the next level.
+* **Interact**: Approach walls and make double jumps.
 
 ## Installation
 
@@ -86,8 +85,11 @@ Fox-Game/
 
 See `Future Ideas.rtf` for planned features and enhancements, including:
 
-* Level editor integration.
-* 
+* Including levels.
+* Working on the UI.
+* Adding consumables and mechanism.
+* Adding health bar component.
+* Story design.
 
 ## Contributing
 
